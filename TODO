@@ -1,0 +1,3 @@
+look at precond for grand market
+kings court doesn't properly place the first card into play
+	it creates three references to the object in the @play list thus duping the card
